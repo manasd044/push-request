@@ -1,0 +1,2 @@
+Hello world now we are learning git bash terminal
+i am going to change this filr for testing
